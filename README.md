@@ -3,10 +3,9 @@
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Precious Agbonkhese! 👋</h1>
 <p align="center">
-  <!-- Replace the URL with your own banner image -->
-  <img align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=80" alt="Coding Banner" style="width:100%; max-width:800px; />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-end+Web+Developer;Aspiring+Full-stack+Engineer;Passion+For+Coding" alt="Typing SVG" />
 </p>
+
 
 <!-- Introduction -->
 ## About Me
