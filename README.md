@@ -9,7 +9,7 @@
 
 <!-- Introduction -->
 ## About Me
-I’m a learner in the ALX Front-End Web Development program with a passion for coding and building websites from scratch. I combine my diverse experiences—from healthcare and interpretation to virtual assistance—with robust problem-solving and debugging skills to create efficient, user-centric digital solutions. My goal is to achieve job-readiness and success through continuous learning and hands-on projects.
+I am a front‑end developer in training, driven by a passion for creating modern, accessible, and visually refined user interfaces. I chose this path to transform my creativity into functional web experiences, combining design sensitivity with logical problem‑solving. I approach my growth with dedication and curiosity, aiming to contribute to high‑quality digital projects and collaborative, innovation‑oriented teams.
 
 ---
 
